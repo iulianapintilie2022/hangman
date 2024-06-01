@@ -7,8 +7,8 @@ The computer makes sure you input only lowercase English letters(only one at a t
 
 -Console only Vanilla JS
 
--Functions, Loops, Classes, Scope
+-Functions, Loops, Scope, Math Methods
 
 -Operators, Variables, Logic, Regexp
 
--Conditionals, String Methods, Array Methods, Math Methods
+-Conditionals, String Methods, Array Methods
