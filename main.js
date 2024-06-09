@@ -17,7 +17,7 @@ while (true) {
       showResults();
       break;
     case "exit":
-      console.log("Shutting down the Coffee Machine. Goodbye!");
+      console.log("Shutting down. Goodbye!");
       return;
     default:
       let userAction = input(
